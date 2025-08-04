@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou a Franciele 👩‍💻</h1>
+<h1 align="center">Olá! Eu sou a Franciele👋</h1>
 
 <p align="center">
-  Desenvolvedora de software ☕💡
+  Desenvolvedora de Software 👩‍💻💻
 </p>
 
 ---
