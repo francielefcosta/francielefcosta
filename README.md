@@ -33,4 +33,4 @@ Acesse: 👉 [portfolio-francielefcostas-projects.vercel.app](https://portfolio-
 
 ---
 
-✨ *"Codando com propósito e uma pitada de criatividade."*
+✨ *Transformando café ☕ em código — e bugs em aprendizado.*
