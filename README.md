@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou formada em **Sistemas para Internet** e atuo como desenvolvedora front-end com foco em criar interfaces intuitivas, responsivas e acessíveis.
+Sou formada em **Sistemas para Internet** e atuo como desenvolvedora com foco em front-end.
 
 Tenho experiência com:
 - **React, Next.js e TypeScript** para aplicações web modernas
@@ -32,5 +32,3 @@ Acesse: 👉 [portfolio-francielefcostas-projects.vercel.app](https://portfolio-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/franciele-ferreira-costa-39536b165/)](https://www.linkedin.com/in/franciele-ferreira-costa-39536b165/)
 
 ---
-
-✨ *Transformando café ☕ em código — e bugs em aprendizado.*
